@@ -11,3 +11,126 @@ All emojis consist of official emoji characters, emoji names and meanings listed
 
 The easiest way to quickly **copy and paste emojis**.
 ### List of Travel Emojis
+- 🏎️ Racing Car
+- 🚗 Automobile
+- 🚕 Taxi
+- 🚓 Police Car
+- 🚙 Sport Utility Vehicle
+- 🚐 Minibus
+- 🚚 Delivery Truck
+- 🚛 Articulated Lorry
+- 🚌 Bus
+- 🚎 Trolleybus
+- 🚑 Ambulance
+- 🚒 Fire Engine
+- 🚜 Tractor
+- 🛴 Kick Scooter
+- 🚲 Bicycle
+- 🛵 Motor Scooter
+- 🛺 Auto Rickshaw
+- 🏍️ Motorcycle
+- 🦽 Manual Wheelchair
+- 🦼 Motorized Wheelchair
+- 🚘 Oncoming Automobile
+- 🚖 Oncoming Taxi
+- 🚔 Oncoming Police Car
+- 🚍 Oncoming Bus
+- 🚡 Aerial Tramway
+- 🚠 Mountain Cableway
+- 🚟 Suspension Railway
+- 🚃 Railway Car
+- 🚋 Tram Car
+- 🚞 Mountain Railway
+- 🚝 Monorail
+- 🚄 High Speed Train
+- 🚅 Bullet Train
+- 🚈 Light Rail
+- 🚆 Train
+- 🚊 Tram
+- 🚉 Station
+- 🚇 Metro
+- 🚂 Locomotive
+- ✈️ Airplane
+- 🛩️ Small Airplane
+- 🚁 Helicopter
+- 🛫 Airplane Departure
+- 🛬 Airplane Arrival
+- 🪂 Parachute
+- 💺 Seat
+- 🛰️ Satellite
+- 🚀 Rocket
+- 🛸 Flying Saucer
+- 🛶 Canoe
+- ⛵ Sailboat
+- 🚤 Speedboat
+- 🛥️ Motor Boat
+- ⛴️ Ferry
+- 🚢 Ship
+- 🛳️ Passenger Ship
+- ⚓ Anchor
+- ⛽ Fuel Pump
+- 🚧 Construction
+- 🚨 Police Car Light
+- 🚦 Vertical Traffic Light
+- 🚥 Horizontal Traffic Light
+- 🚏 Bus Stop
+- 🗺️ World Map
+- 🏗️ Building Construction
+- 🏠 House
+- 🏡 House with Garden
+- 🏘️ Houses
+- 🏚️ Derelict House
+- 🏭 Factory
+- 🏢 Office Building
+- 🏬 Department Store
+- 🏣 Japanese Post Office
+- 🏤 Post Office
+- 🏥 Hospital
+- 🏦 Bank
+- 🏪 Convenience Store
+- 🏫 School
+- 🏨 Hotel
+- 🏩 Love Hotel
+- 💒 Wedding
+- 🏰 Castle
+- 🏯 Japanese Castle
+- 🏟️ Stadium
+- 🏛️ Classical Building
+- ⛪ Church
+- 🕌 Mosque
+- 🕍 Synagogue
+- 🛕 Hindu Temple
+- 🕋 Kaaba
+- ⛩️ Shinto Shrine
+- 🗿 Moai
+- 🗽 Statue of Liberty
+- 🗼 Tokyo Tower
+- 🎡 Ferris Wheel
+- 🎢 Roller Coaster
+- 🎠 Carousel Horse
+- ⛲ Fountain
+- 🎇 Sparkler
+- 🎆 Fireworks
+- 🗾 Map of Japan
+- 🎑 Moon Viewing Ceremony
+- ⛰️ Mountain
+- 🏔️ Snow Capped Mountain
+- 🌋 Volcano
+- 🗻 Mount Fuji
+- ⛱️ Umbrella on Ground
+- 🏖️ Beach with Umbrella
+- 🌅 Sunrise
+- 🏝️ Desert Island
+- 🌄 Sunrise Over Mountains
+- 🏜️ Desert
+- 🛤️ Railway Track
+- 🛣️ Motorway
+- 🏞️ National Park
+- 🏕️ Camping
+- ⛺ Tent
+- 🏙️ Cityscape
+- 🌉 Bridge at Night
+- 🌃 Night with Stars
+- 🌇 Sunset
+- 🌆 Cityscape at Dusk
+- 🌁 Foggy
